@@ -1,15 +1,14 @@
 # Mall_Customer_Segmentation
 
-
-Comparing KMeans, Hierarchical Clustering, and GMMs and selecting the best model to segment customer information using Silhouette score.
+Using Python to validate the performance of K-Means, Hierarchical Clustering, and GMMs using the Silhouette score and picked the best model to segment customer information and formed growth strategies for each group
 
 # Dataset Overview
-This is a mall’s dataset from Kaggle, and it has some basic data about the customers such as Customer ID, age, gender, annual income, and spending score.
+This is a mall’s dataset from Kaggle (https://www.kaggle.com/vjchoudhary7/customer-segmentation-tutorial-in-python), and it has some basic data about the customers such as Customer ID, age, gender, annual income, and spending score.
 
 # Problem Statement
-I want to increase customer lifetime value by segmenting the customers into several groups with similar characteristics and form growth strategies for each group.
+To increase customer lifetime value by segmenting the customers into several groups with similar characteristics and form growth strategies for each group.
 
-# Analysis Process
+# Analysis Steps
 1. Assessing Data
 2. Preprocessing
 3. Choosing the right K and the right model
@@ -17,5 +16,5 @@ I want to increase customer lifetime value by segmenting the customers into seve
 5. Analyzing and forming growth strategies
 6. Possible Growth Strategies Summary
 
-# Watch the video presentation of this project: https://www.youtube.com/watch?v=19_61vTK0dQ
-# Read the article of this project: https://medium.com/geekculture/mall-customer-segmentation-and-forming-growth-strategies-cc4130a0f4d7
+Here are the customer groups after the analysis:
+![image](https://user-images.githubusercontent.com/47337257/151678853-eb7329ad-1fdf-4003-8323-fa41f3cd9071.png)
