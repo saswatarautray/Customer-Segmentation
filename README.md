@@ -17,4 +17,5 @@ To increase customer lifetime value by segmenting the customers into several gro
 6. Possible Growth Strategies Summary
 
 Here are the customer groups after the analysis:
+
 ![image](https://user-images.githubusercontent.com/47337257/151678853-eb7329ad-1fdf-4003-8323-fa41f3cd9071.png)
